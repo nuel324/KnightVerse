@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1417-sc-88-split-the-5-800-line-game-contract-src",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1417-sc-88-split-the-5-800-line-game-contract-src": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1417-sc-88-split-the-5-800-line-game-contract-src",
+    "origin"
+  ]
+}
